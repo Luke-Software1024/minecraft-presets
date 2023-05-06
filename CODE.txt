@@ -1,0 +1,1 @@
+3;46,12,70;1;stronghold,biome_1,village,decoration,dungeon,lake,mineshaft,lava_lake
